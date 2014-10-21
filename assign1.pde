@@ -78,9 +78,7 @@ void draw() {
       int dc=int(random(6));    
       machine.setSlotFruit(2,dc);
       
-      
-      int result=da=db=dc;
-      result=machine.probability(0.1);
+   
       
      
       
